@@ -124,6 +124,12 @@
     "download_data": "Download my data",
     "download_data_success": "Your data has been downloaded."
   },
+  "subscription_status_banner": {
+    "expired": "Subscription expired",
+    "renew": "Renew",
+    "expires_in": "{tier} — {count, plural, one {expires in # day} other {expires in # days}}",
+    "days_remaining": "{tier} — {count, plural, one {# day remaining} other {# days remaining}}"
+  },
   "wallet": {
     "connect": "Connect Wallet",
     "connecting": "Connecting…",

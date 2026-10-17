@@ -141,6 +141,12 @@
     "download_data": "Télécharger mes données",
     "download_data_success": "Vos données ont été téléchargées."
   },
+  "subscription_status_banner": {
+    "expired": "Abonnement expiré",
+    "renew": "Renouveler",
+    "expires_in": "{tier} — {count, plural, one {expire dans # jour} other {expire dans # jours}}",
+    "days_remaining": "{tier} — {count, plural, one {# jour restant} other {# jours restants}}"
+  },
   "wallet": {
     "connect": "Connecter le portefeuille",
     "connecting": "Connexion en cours…",

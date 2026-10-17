@@ -199,6 +199,12 @@
     "download_data": "Pakua data yangu",
     "download_data_success": "Data yako imepakuliwa."
   },
+  "subscription_status_banner": {
+    "expired": "Usajili umeisha muda",
+    "renew": "Sasisha",
+    "expires_in": "{tier} — {count, plural, one {unaisha baada ya siku #} other {unaisha baada ya siku #}}",
+    "days_remaining": "{tier} — {count, plural, one {siku # imebaki} other {siku # zimebaki}}"
+  },
   "wallet": {
     "connect": "Unganisha Pochi",
     "connecting": "Inaunganisha…",
