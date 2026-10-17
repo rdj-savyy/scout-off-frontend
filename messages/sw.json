@@ -160,6 +160,15 @@
     "submit": "Wasilisha Ofa ya Majaribio",
     "submitting": "Inawasilisha…"
   },
+  "saved_searches_menu": {
+    "title": "Utafutaji Uliohifadhiwa",
+    "new_count": "{count} mpya",
+    "apply": "Tumia",
+    "rename": "Badilisha jina",
+    "remove": "Ondoa",
+    "save": "Hifadhi",
+    "cancel": "Ghairi"
+  },
   "player_profile": {
     "back_to_scout_dashboard": "← Rudi kwenye Dashibodi ya Scout",
     "verified_on_chain": "Imethibitishwa kwenye blockchain"

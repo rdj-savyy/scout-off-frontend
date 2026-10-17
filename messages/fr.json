@@ -102,6 +102,15 @@
     "submit": "Envoyer l'offre d'essai",
     "submitting": "Envoi…"
   },
+  "saved_searches_menu": {
+    "title": "Recherches enregistrées",
+    "new_count": "{count} nouveau(x)",
+    "apply": "Appliquer",
+    "rename": "Renommer",
+    "remove": "Supprimer",
+    "save": "Enregistrer",
+    "cancel": "Annuler"
+  },
   "player_profile": {
     "back_to_scout_dashboard": "← Retour au tableau de bord des scouts",
     "verified_on_chain": "Vérifié sur la chaîne"

@@ -85,6 +85,15 @@
     "submit": "Submit Trial Offer",
     "submitting": "Submitting…"
   },
+  "saved_searches_menu": {
+    "title": "Saved Searches",
+    "new_count": "{count} new",
+    "apply": "Apply",
+    "rename": "Rename",
+    "remove": "Remove",
+    "save": "Save",
+    "cancel": "Cancel"
+  },
   "player_profile": {
     "back_to_scout_dashboard": "← Back to Scout Dashboard",
     "verified_on_chain": "Verified on-chain"
