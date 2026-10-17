@@ -176,7 +176,9 @@
     "wallet_error": "Wallet operation failed"
   },
   "contract_status": {
-    "paused_hint": "Temporarily unavailable — the platform is paused for maintenance"
+    "paused_hint": "Temporarily unavailable — the platform is paused for maintenance",
+    "incompatible_title": "Contract update required.",
+    "incompatible_message": "This app version is out of sync with the deployed contract. Please refresh or check for an update."
   },
   "dispute_modal": {
     "character_count": "{count} of {max} characters"

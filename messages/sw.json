@@ -251,7 +251,9 @@
     "wallet_error": "TODO: Machine-translated - Operesheni ya pochi imeshindwa"
   },
   "contract_status": {
-    "paused_hint": "Haipatikani kwa muda — jukwaa limepumzishwa kwa matengenezo"
+    "paused_hint": "Haipatikani kwa muda — jukwaa limepumzishwa kwa matengenezo",
+    "incompatible_title": "Sasisho la mkataba linahitajika.",
+    "incompatible_message": "Toleo hili la programu halilingani na mkataba uliowekwa. Tafadhali onyesha upya ukurasa au angalia sasisho."
   },
   "dispute_modal": {
     "character_count": "{count} ya {max} herufi"

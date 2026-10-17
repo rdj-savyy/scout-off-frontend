@@ -193,7 +193,9 @@
     "wallet_error": "L'opération du portefeuille a échoué"
   },
   "contract_status": {
-    "paused_hint": "Indisponible temporairement — la plateforme est en pause pour maintenance"
+    "paused_hint": "Indisponible temporairement — la plateforme est en pause pour maintenance",
+    "incompatible_title": "Mise à jour du contrat requise.",
+    "incompatible_message": "Cette version de l’application n’est pas synchronisée avec le contrat déployé. Veuillez actualiser la page ou rechercher une mise à jour."
   },
   "dispute_modal": {
     "character_count": "{count} sur {max} caractères"
